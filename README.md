@@ -1,4 +1,5 @@
 # Git-demo
 This is my first Git  Repository.
 <br>
-Author - Satyam Shorrf
+Author - Satyam (Sonu Shorrf)
+
